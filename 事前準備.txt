@@ -1,0 +1,162 @@
+構成：8ページ/WN01/CL1：工事経歴（カテゴリに写真数枚）/MF1
+URL：
+https://www.hasegawa-denki.co.jp/
+備考：採用に力を注いだサイトに 写真を中心にリアリティをだす 
+
+
+◆現在のHP
+①ホーム
+②事業案内
+③会社概要
+④求人情報
+⑤お問い合わせ
+
+◆リニューアル予定
+①TOP
+②お知らせ
+③業務内容
+④工事履歴
+⑤問い合わせ
+⑥採用　ページ数多めになってます！
+
+
+
+◆事前確認
+求人寄り
+初回は会社の信用のために作成していた
+息子さんの意見で、社長の写真など撮影したものを使用したいとのこと
+他社を見た
+素材を使わない方向にしたいとのこと
+
+
+---------------
+昔のメモ
+
+PC5+SP5　JQ　MF　開発3h
+
+【案件名】株式会社長谷川電気工業
+
+新規制作、デザインこだわり無し、ロゴ無し。
+
+見た目、一般的な会社紹介サイトで良い。
+色　白ベースの水色（薄めの青）
+
+
+【構成】
+
+・TOP
+・事業案内（実績）
+・会社概要
+・求人
+・お問い合わせ　MF
+
+
+
+会社紹介　4
+事業内容　4　
+求人情報　2
+
+
+【制作について】
+主に会社概要。取引先への紹介、採用の際にベースとなるHPが欲しい。
+主な事業は電気設備工事、工務店・ハウスメーカからの下請けが多い（一般住宅）。商業施設や工場等もやる。
+空調設備工事（エアコンがメイン）、設計施工。
+メンテナンスもやる。
+新築もやるし、たまにリフォームの案件もある。
+施工エリアは埼玉を中心に関東圏がメイン
+求人情報についてはPDF参照してください。 
+
+
+---追記---
+
+長谷川電気工事
+会社概要としてのHPを持ちたい。
+求人情報に付随して。
+
+
+主な事業内容
+
+・電気設備工事
+ エコキュートの施工もやる 
+ 一般住宅が多いけど、金額で言うとオフィスがでかい。
+ 工場系もやる。病院系は今はやってない。
+
+
+・空調設備工事
+ エアコンがメインで施工。
+ 換気については、換気扇が多い。
+
+・設計施工
+ メンテナンスも受けてる。
+
+参考イメージ
+https://www.sakai-densetsu.co.jp/index.html
+https://www.kobedenki.net/index.html
+
+
+
+採用：研修制度、キャリアアップ、一日の流れ
+https://www.tokyo-haiden.com/recruit.html
+
+事業内容：具体的な項目あり
+工事実績：リスト形式で実績あり
+https://www.kk-nakaden.com/business.html
+
+事業内容：実際の写真
+https://www.tokiwadensetu.com/business.html
+
+採用情報：メンバーの声
+https://www.houserem.jp/recruit.html
+
+採用情報：求める人物像、オフの写真
+https://www.yamato2017.co.jp/recruit.html
+
+採用情報：福利厚生、一日の流れ
+https://www.hausu-kikaku.co.jp/recruit.html
+
+働き方：一日の流れ、数値で見る、オフィスの写真、インタビュー、イラスト
+https://www.kaito-sekkei.com/workstyle.html
+
+募集：
+数値で見る
+https://takuma-plant.co.jp/recruit/about/
+求める人物像
+https://takuma-plant.co.jp/recruit/desired-figure/
+福利厚生
+https://takuma-plant.co.jp/recruit/actual-spot/
+
+エントリーフォーム
+https://www.chuuou-kousoku.co.jp/recruit.html
+
+施工実績　写真1枚と簡単な詳細
+https://www.denkohsha.co.jp/works_1
+写真１枚と名前
+https://www.kandenko.co.jp/works/
+写真複数枚と名前
+https://www.inaba-idk.co.jp/achievements.html
+
+お知らせ
+保有設備
+主な取引先
+施工実績
+保有設備
+
+新卒 既卒
+協力会社
+８時 会社 たばこ
+
+若い人が来たいと思える項目を追加
+https://www.tajima-sokuryou.jp/recruit.html
+
+
+内容は近いが一般より
+https://www.kk-nakaden.com/business.html
+
+近い
+https://nakano-densetsu.co.jp/
+
+https://www.tokiwadensetu.com/business.html
+
+見やすくて良い
+http://ryo-den.co.jp/
+
